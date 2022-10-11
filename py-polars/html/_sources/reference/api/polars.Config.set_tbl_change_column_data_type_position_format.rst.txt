@@ -1,0 +1,6 @@
+﻿polars.Config.set\_tbl\_change\_column\_data\_type\_position\_format
+====================================================================
+
+.. currentmodule:: polars
+
+.. automethod:: Config.set_tbl_change_column_data_type_position_format

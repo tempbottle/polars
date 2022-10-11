@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["NULL",""]],"enum":[["LiteralValue",""],["LogicalPlan",""]],"struct":[["Duration",""],["Null","The literal Null"],["RollingOptions",""]],"trait":[["Literal",""]]};
